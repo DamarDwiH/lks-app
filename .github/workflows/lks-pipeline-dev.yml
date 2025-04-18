@@ -1,5 +1,6 @@
 name: Deploy Application into Docker Swarm
 
+
 on:
   push:
     branches:
